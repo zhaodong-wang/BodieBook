@@ -1,0 +1,43 @@
+\documentclass{bodiebook}
+
+\wdtexbooktheme{bodie} %
+\wdtexbookcolor{green} % green, violet, print
+
+
+\wdtitle{ELEGANCE {\color{black!70}\rm\itshape of} LATEX}
+
+\wdedition{FIRST}
+
+\wdfirstauthor{Donald E. Knuth}
+\wdfirstinstitute{Stanford University}
+\wdsecondauthor{Leslie Lamport}
+\wdsecondinstitute{Brandeis University}
+\wdthirdauthor{}
+\wdthirdinstitute{}
+
+\begin{document}
+
+\wdmaketitle
+
+\shorttoc{Brief Contents}{0}
+
+\tableofcontents
+
+%====== be sure to add this part ====%
+\switchgeometry
+\wdstartdoc
+% \addtocontents{toc}{\protect\begin{multicols}{2}}
+% \setcounter{page}{1}
+% \renewcommand{\thepage}{\arabic{page}}
+% ====== be sure to add this part ====%
+
+\input{body.tex}
+
+%====== be sure to add this part ====%
+%\addtocontents{toc}{\protect\end{multicols}}
+\wdenddoc
+%====== be sure to add this part ====%
+
+%\enddoc
+
+\end{document}
