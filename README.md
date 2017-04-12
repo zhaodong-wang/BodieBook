@@ -5,10 +5,9 @@
 先 show 几个效果图：
 
 ![shot1](https://github.com/TeXnicians/BodieBook/blob/master/figure/snapshots/1-shot10.png)
-
-<center>![shot2](./figure/snapshots/2-shot20.png)</center>
-<center>![shot3](./figure/snapshots/3-shot30.png)</center>
-<center>![shot4](./figure/snapshots/4-shot40.png)</center>
+![shot2](https://github.com/TeXnicians/BodieBook/blob/master/figure/snapshots/2-shot20.png)
+![shot3](https://github.com/TeXnicians/BodieBook/blob/master/figure/snapshots/3-shot30.png)
+![shot4](https://github.com/TeXnicians/BodieBook/blob/master/figure/snapshots/4-shot40.png)
 
 ## 使用说明
 
@@ -62,7 +61,7 @@
 
 章节样式的细节图如下
 
-<center>![sec](./figure/snapshots/5-sec.png)</center>
+![sec](https://github.com/TeXnicians/BodieBook/blob/master/figure/snapshots/5-sec.png)
 
 ### 表格和图片
 
@@ -98,7 +97,7 @@ Source: \textit{Flow of Funds Accounts of the United States}, Board of Governors
 
 效果如下：
 
-<center>![tablewide](./figure/snapshots/6-tablewide.png)</center>
+![tablewide](https://github.com/TeXnicians/BodieBook/blob/master/figure/snapshots/6-tablewide.png)
 
 
 窄式表格代码如下：
@@ -122,7 +121,7 @@ Source: \textit{Flow of Funds Accounts of the United States}, Board of Governors
 </pre>
 效果如下：
 
-<center>![tablenarrow](./figure/snapshots/7-tablenarrow.png)</center>
+![tablenarrow](https://github.com/TeXnicians/BodieBook/blob/master/figure/snapshots/7-tablenarrow.png)
 
 
 图片只有一中宽式（参考原书排版），代码如下：
@@ -141,7 +140,7 @@ Source: \textit{Flow of Funds Accounts of the United States}, Board of Governors
 
 效果如下：
 
-<center>![figure](./figure/snapshots/8-figure.png)</center>
+![figure](https://github.com/TeXnicians/BodieBook/blob/master/figure/snapshots/8-figure.png)
 
 
 ### 其他环境
@@ -159,7 +158,7 @@ Source: \textit{Flow of Funds Accounts of the United States}, Board of Governors
 
 效果如下：
 
-<center>![example](./figure/snapshots/9-example.png)</center>
+![example](https://github.com/TeXnicians/BodieBook/blob/master/figure/snapshots/9-example.png)
 
 
 ---
