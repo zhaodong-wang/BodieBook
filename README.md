@@ -4,7 +4,7 @@
 
 先 show 几个效果图：
 
-<center>![shot1](./figure/snapshots/1-shot10.png)</center>
+<center>![shot1](https://github.com/TeXnicians/BodieBook/blob/master/figure/snapshots/1-shot10.png)</center>
 <center>![shot2](./figure/snapshots/2-shot20.png)</center>
 <center>![shot3](./figure/snapshots/3-shot30.png)</center>
 <center>![shot4](./figure/snapshots/4-shot40.png)</center>
@@ -163,7 +163,3 @@ Source: \textit{Flow of Funds Accounts of the United States}, Board of Governors
 
 ---
 [1] Marcus, Alan J., Zvi Bodie, and Alex Kane. *Essentials of investments*, 7th edition. McGraw Hill, 2008.
-
-[download info="BodieBook 代码下载" time="2014-11-18" cat="项目线"]
-<a href="./figure/snapshots/BodieBook.zip" target="_blank">本站下载</a>
-[/download]
