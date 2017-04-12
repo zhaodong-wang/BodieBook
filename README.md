@@ -23,7 +23,7 @@
 \wdtexbookcolor{green} % green, violet, print
 </pre>
 
-我们提供了两种颜色主题供选择，`green` 和 `violet`，上面给的例子是 `green` 的主题。另外还提供了一个 `print` 黑白主题，用于打印。
+我们提供了两种颜色主题供选择，`green` 和 `violet`，另外还提供了一个 `print` 黑白主题，用于打印。
 
 然后设置标题，版本和作者信息，不填也可以。这里最多三个作者，下一个版本争取提供能够不限作者数量的命令。
 
