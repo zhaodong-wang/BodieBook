@@ -4,7 +4,8 @@
 
 先 show 几个效果图：
 
-<center>![shot1](https://github.com/TeXnicians/BodieBook/blob/master/figure/snapshots/1-shot10.png)</center>
+![shot1](https://github.com/TeXnicians/BodieBook/blob/master/figure/snapshots/1-shot10.png)
+
 <center>![shot2](./figure/snapshots/2-shot20.png)</center>
 <center>![shot3](./figure/snapshots/3-shot30.png)</center>
 <center>![shot4](./figure/snapshots/4-shot40.png)</center>
