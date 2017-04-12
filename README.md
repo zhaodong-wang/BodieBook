@@ -4,10 +4,10 @@
 
 先 show 几个效果图：
 
-<center>![shot1](http://elegantlatex.org/wp-content/uploads/2014/11/1-shot10.jpg)</center>
-<center>![shot2](http://elegantlatex.org/wp-content/uploads/2014/11/2-shot20.jpg)</center>
-<center>![shot3](http://elegantlatex.org/wp-content/uploads/2014/11/3-shot30.jpg)</center>
-<center>![shot4](http://elegantlatex.org/wp-content/uploads/2014/11/4-shot40.jpg)</center>
+<center>![shot1](./figure/snapshots/1-shot10.png)</center>
+<center>![shot2](./figure/snapshots/2-shot20.png)</center>
+<center>![shot3](./figure/snapshots/3-shot30.png)</center>
+<center>![shot4](./figure/snapshots/4-shot40.png)</center>
 
 ## 使用说明
 
@@ -61,7 +61,7 @@
 
 章节样式的细节图如下
 
-<center>![sec](http://elegantlatex.org/wp-content/uploads/2014/11/5-sec.jpg)</center>
+<center>![sec](./figure/snapshots/5-sec.png)</center>
 
 ### 表格和图片
 
@@ -97,7 +97,7 @@ Source: \textit{Flow of Funds Accounts of the United States}, Board of Governors
 
 效果如下：
 
-<center>![tablewide](http://elegantlatex.org/wp-content/uploads/2014/11/6-tablewide.jpg)</center>
+<center>![tablewide](./figure/snapshots/6-tablewide.png)</center>
 
 
 窄式表格代码如下：
@@ -121,7 +121,7 @@ Source: \textit{Flow of Funds Accounts of the United States}, Board of Governors
 </pre>
 效果如下：
 
-<center>![tablenarrow](http://elegantlatex.org/wp-content/uploads/2014/11/7-tablenarrow.jpg)</center>
+<center>![tablenarrow](./figure/snapshots/7-tablenarrow.png)</center>
 
 
 图片只有一中宽式（参考原书排版），代码如下：
@@ -140,7 +140,7 @@ Source: \textit{Flow of Funds Accounts of the United States}, Board of Governors
 
 效果如下：
 
-<center>![figure](http://elegantlatex.org/wp-content/uploads/2014/11/8-figure.jpg)</center>
+<center>![figure](./figure/snapshots/8-figure.png)</center>
 
 
 ### 其他环境
@@ -158,12 +158,12 @@ Source: \textit{Flow of Funds Accounts of the United States}, Board of Governors
 
 效果如下：
 
-<center>![example](http://elegantlatex.org/wp-content/uploads/2014/11/9-example.jpg)</center>
+<center>![example](./figure/snapshots/9-example.png)</center>
 
 
 ---
 [1] Marcus, Alan J., Zvi Bodie, and Alex Kane. *Essentials of investments*, 7th edition. McGraw Hill, 2008.
 
 [download info="BodieBook 代码下载" time="2014-11-18" cat="项目线"]
-<a href="http://elegantlatex.org/wp-content/uploads/2014/11/BodieBook.zip" target="_blank">本站下载</a>
+<a href="./figure/snapshots/BodieBook.zip" target="_blank">本站下载</a>
 [/download]
